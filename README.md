@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Fileofish.github.io/rsschool-cv/
