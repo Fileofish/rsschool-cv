@@ -11,7 +11,6 @@
 * **Telegram**: @Fileofish13
 * **Discord**: @Fileofish
 
-====
 
 ## About Me:
 
@@ -19,7 +18,6 @@ I am 32 years old and work as an equipment procurement specialist for an oil com
 
 I consider my focus to be my strong point. If I see a problem that needs to be solved, I just solve it. With the help of this course, I want to master the profession of a front-end programmer and find a job outside the CIS countries.
 
-====
 
 ## Skills:
 
@@ -32,7 +30,6 @@ I consider my focus to be my strong point. If I see a problem that needs to be s
 * Figma
 * VSCode
 
-====
 
 ## Code exanples:
 
@@ -126,20 +123,17 @@ function convert(input, source, target) {
 }
 ```
 
-====
 
 ## Education:
 
 * Tyumen State University of Architecture and Civil Engineering, Faculty of Engineering and Economics, City Cadastre
 * RS School Stage 0
 
-====
 
 ## Experience:
 
 **[Stage 0 plants]**[https://rolling-scopes-school.github.io/fileofish-JSFEPRESCHOOL2022Q4/plants/]
 
-====
 
 ## English
 
